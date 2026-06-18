@@ -37,7 +37,3 @@ role-based access, JWT, email invitations.
 ## 📫 Reach me
 - Email: abandaglory91@gmail.com
 - LinkedIn: https://www.linkedin.com/in/abanda-glory/
-
-## 📫 Reach me
-- Email: abandaglory91@gmail.com
-- LinkedIn: https://www.linkedin.com/in/abanda-glory/
